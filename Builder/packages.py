@@ -11,21 +11,21 @@ BASE_PACKAGES = [
     "xfce4-power-manager", "xfce4-settings", "xorg-xbacklight", "zathura", "zathura-djvu", "zathura-pdf-mupdf",
     "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
     "vlc", "usbutils", "picom", "networkmanager-openvpn", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
-    "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl", "light",
+    "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-fira-code",
     "ttf-iosevka-nerd"
 ]
 
 DEV_PACKAGES = [
-    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "wireshark-qt",
+    "cheese", "screenkey", "timeshift", "kdenlive", "wireshark-qt",
     "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
-    "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
+    "bleachbit", "veracrypt", "homebank", "gnome-firmware", "dconf-editor",
     "neovim", "telegram-desktop", "code",
     "flameshot", "obsidian", "python-pip", "bpython", "ipython"
 ]
 
 AUR_PACKAGES = [
-    "cava", "i3lock-color"
+    "cava", "i3lock-color", "touche", "neofetch", "pinta", "gtkhash", "light" 
 ]
 
 GNOME_OFFICIAL_TOOLS = [
